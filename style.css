@@ -1,0 +1,106 @@
+.image-class{
+   
+    margin-left:450px;
+    height: 450px;
+}
+body{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.text-style{
+    text-align: center;
+    font-size: 50px;
+}
+.para-style1{
+    text-align: center;
+    font-size: 30px;
+}
+.orange-color{
+    color: orange;
+   
+}
+.linked-anchor{
+text-decoration: none;
+padding: 10px 40px;
+background-image: linear-gradient(red,purple);
+color: white;
+font-size: 30px;
+text-align: center;
+margin-left: 500px;
+}
+
+.topper-image{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 120px;
+}
+.text-style1{
+    font-size: 50px;
+}
+.text-style2{
+    font-size: 25px; 
+}
+.name-style{
+    color: orange;
+}
+.half-width{
+   padding-left: 5%;
+   width: 50%;
+
+}
+.intro-part{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width img{
+   width: 80%;
+}
+.linked-anchor2{
+    font-size: 25px;
+    color: white;
+    background-image: linear-gradient(orange,purple);
+    padding:10px 40px;
+    text-decoration: none;
+}
+.Web-developer{
+    width: 50%;
+    padding-left: 5%;
+}
+.full-stack-web-developer{
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px 40px;
+    width: 40%;
+    margin-left: 50px;
+    border-radius: 20px;
+    border-left: 5px solid;
+    border-image: linear-gradient(orange,purple);
+    border-image-slice: 1;
+}
+.baby-stack-web-developer{
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px 40px;
+    width: 40%;
+    margin-left: 50px;
+    border-right: 20px;
+    border-radius: 20px;
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,green);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+.text-style4{
+    font-size: 50px;
+}
+.footer-image{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.middle-image{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
